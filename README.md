@@ -5,11 +5,6 @@ This project helps users find delicious recipes by ingredient or recipe name, or
 
 ---
 
-## 🚀 Live Demo
-🔗 **Vercel Deployment:** https://your-vercel-link.vercel.app
-
----
-
 ## 💡 Features
 
 ### ✅ MVP
@@ -51,4 +46,4 @@ This project helps users find delicious recipes by ingredient or recipe name, or
 **Maliha Fatima**  
 Web Developer | Passionate about modern UI design  
 📧 [malihafatima918@gmail.com]  
-🌍 [LinkedIn Profile link if you want]
+🌍 [(https://www.linkedin.com/in/maliha-dev/)]
